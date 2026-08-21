@@ -1,0 +1,6 @@
+{
+  "name": "Athletico Royaal",
+  "description": "Premium performance sportswear and precision-engineered athletic apparel for retail and B2B wholesale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
